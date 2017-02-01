@@ -6,5 +6,4 @@ sudo yum install -y elasticsearch
 sudo cp elasticsearch_2_x.yml /etc/elasticsearch/elasticsearch.yml
 sudo chkconfig elasticsearch on
 sudo service elasticsearch start
-sudo yum install elasticsearch
 sudo /usr/share/elasticsearch/bin/plugin install mobz/elasticsearch-head
