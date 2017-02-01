@@ -7,7 +7,7 @@ Tested on CentOS 7.
 
 ### Usage
 
-You may need to assign execute permissions to the scripts before you can exexute them
+You may need to assign execute permissions to the scripts before you can run them
 
 ```bash
 chmod +x install_1_7.bash
